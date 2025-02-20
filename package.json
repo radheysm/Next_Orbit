@@ -1,0 +1,42 @@
+{
+  "name": "next_orbit",
+  "version": "1.0.0",
+  "description": "basic setup",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radheysm/Next_Orbit.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Radhey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radheysm/Next_Orbit/issues"
+  },
+  "homepage": "https://github.com/radheysm/Next_Orbit#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
